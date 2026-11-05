@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker Mobile App",
+  "description": "Comprehensive mobile expense tracker with budget planning, analytics, savings goals, transaction history, receipts, and full Flutter/Dart academic project code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
